@@ -1,10 +1,4 @@
 Data Science:
     It is an Interdisciplinary field that uses Scientific methods, processes, algorithms and systems to extract knowledge
     and insights from noisy, structured and unstructured data, and apply knowledge from data across a broad range of 
-    application domains.1st:- Data Science
- 2nd:- Machine Learning
- 3rd:- Deep Learning
- 4th:- Natural Language Processing1st:- Data Science
- 2nd:- Machine Learning
- 3rd:- Deep Learning
- 4th:- Natural Language Processing
+    application domains.
